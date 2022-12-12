@@ -1,4 +1,4 @@
-# ProjDogs
+# Random dog generator
 
 Random dogs generator, click in the button to change the dog. 
 <br>

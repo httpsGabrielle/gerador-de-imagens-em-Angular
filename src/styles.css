@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Quicksand:wght@500&display=swap');
+
+*{
+    margin: 0px;
+    color: #3a3128;
+}
+h3{
+    font-family: 'Merriweather', serif;  
+}
+.full-background{
+    height: 100vh;
+    background-image: url("https://i.pinimg.com/originals/a7/54/44/a754447dc9cd987e0d0c15e7fe5c124e.jpg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+}
